@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Sangita 👋
 
-<!--
-**sangita2911/sangita2911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Symlink developer with a knack for creating efficient and reliable solutions. I love exploring new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 I’m currently working as a Backend Developer
+- 🌱 I’m learning more about Advance Data Structure
+- 👯 I’m looking to collaborate on Critical level projects
+- 💬 Ask me about Database
+- 📫 How to reach me: SangitaDev272
+- ⚡ Fun fact: I can code for you | I can develop SEO Content for you
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages: NodeJs, ReactJs, ExpressJs, NextJs, Java, SQL, MongoDB
+- Frameworks: NodeJs, ReactJs, ExpressJs, NextJs, Java, SQL, MongoDB
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration ideas!
